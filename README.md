@@ -1,3 +1,13 @@
+<div align="center">
+    <img src="assets/logo/psp_logo.png" width="250" alt="PSP Logo">
+</div>
+
+<h1 align="center">PSP - Pedagogical Monitoring Platform</h1>
+
+<p align="center">
+    Learn • Track • Succeed
+</p>
+
 # PSP - Pedagogical Monitoring Platform
 
 A graduation project developed for University of Biskra students.
