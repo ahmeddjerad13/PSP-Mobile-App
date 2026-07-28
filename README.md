@@ -50,5 +50,6 @@ This project was developed collaboratively by a team of Computer Science student
 
 ## Contact
 
-- LinkedIn: Your LinkedIn Profile
-- GitHub: https://github.com/your-username
+- LinkedIn: [Ahmed Djerad](https://www.linkedin.com/in/ahmed-djerad-63853a2ab/?skipRedirect=true)
+- GitHub: https://github.com/ahmeddjerad13
+- 
